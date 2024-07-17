@@ -1,3 +1,5 @@
 This is a new feature called feature 3
 
 We are adding this feature to demo git revert command
+
+Added in this line to make new additions to this feature 3
