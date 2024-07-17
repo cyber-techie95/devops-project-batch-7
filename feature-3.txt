@@ -1,0 +1,3 @@
+This is a new feature called feature 3
+
+We are adding this feature to demo git revert command
