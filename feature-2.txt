@@ -1,0 +1,5 @@
+This is a new feature called feature-2
+
+In this feature demo, we are learning how to use git revert command.
+
+very cool feature
